@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2f6a5ec94be55eb4ab4775ebdd3734df
+guid: eebe976fa4e1f054694aef29988ba895
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -74,7 +74,7 @@ TextureImporter:
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 1
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     ignorePlatformSupport: 0
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Orc-Peon-Red_0
+      name: Orc-Peon-Cyan_0
       rect:
         serializedVersion: 2
         x: 9
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7bd5d61d882d7e048932c33b6a8bec01
-      internalID: 1056791125
+      spriteID: e08e17c92b3477146b010fd288eb48fc
+      internalID: 1591511826
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_1
+      name: Orc-Peon-Cyan_1
       rect:
         serializedVersion: 2
         x: 41
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd81b26cc84d96f439ed6012339cd1d5
-      internalID: 2083332851
+      spriteID: a601f0b1abd322441b3e0a306be33652
+      internalID: 365850499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_2
+      name: Orc-Peon-Cyan_2
       rect:
         serializedVersion: 2
         x: 73
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5aebc2c5b0ab2d841a7330ff65ad2f83
-      internalID: 1280242609
+      spriteID: 5fa8a70d8a658224e80bb4d8c134258f
+      internalID: 1309020051
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_3
+      name: Orc-Peon-Cyan_3
       rect:
         serializedVersion: 2
         x: 105
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cebd0c81df646a94ab34551fe38d185f
-      internalID: -1309471371
+      spriteID: e7c70f00e943db04f80ef19b8f0ca5cc
+      internalID: -806226349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_4
+      name: Orc-Peon-Cyan_4
       rect:
         serializedVersion: 2
         x: 137
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 032af7c107dd5ec4a909aa5b64f50ad1
-      internalID: -1084317548
+      spriteID: e40310ed36fd31e4bb4ddb05cadc1440
+      internalID: -181307378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_5
+      name: Orc-Peon-Cyan_5
       rect:
         serializedVersion: 2
         x: 168
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfa1cdd7009395c4291d846678ebe205
-      internalID: -466870358
+      spriteID: 58c6c53bf6d76214faf0ce2d72d997ee
+      internalID: -239966718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_6
+      name: Orc-Peon-Cyan_6
       rect:
         serializedVersion: 2
         x: 200
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2f01cf28ebf47c4ea662b6dddd35bbf
-      internalID: -718999371
+      spriteID: f334f519720986f489d6255ae714c1d5
+      internalID: 1388927506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_7
+      name: Orc-Peon-Cyan_7
       rect:
         serializedVersion: 2
         x: 233
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ed5e54127ea82e41a858cf29264c2ab
-      internalID: -2066216393
+      spriteID: 9c3a3527ebe79914ca5b15a74bb5b024
+      internalID: 544574323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_8
+      name: Orc-Peon-Cyan_8
       rect:
         serializedVersion: 2
         x: 265
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b7c84a187d2a594c8ddcc8827a6463e
-      internalID: 644965147
+      spriteID: 561e7aab350355d42b554c4cbc6dcc23
+      internalID: -663444653
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_9
+      name: Orc-Peon-Cyan_9
       rect:
         serializedVersion: 2
         x: 297
@@ -300,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1b01d14288f2f44aa5fdd50f80a63e2
-      internalID: -1565234941
+      spriteID: e6137384a0d8d614293d1de724f8b9a0
+      internalID: 2098203684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_10
+      name: Orc-Peon-Cyan_10
       rect:
         serializedVersion: 2
         x: 329
@@ -321,14 +321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4eed05f53a49e4345a250a13cb5a2b62
-      internalID: -1737411926
+      spriteID: 17207b46ccf0b4d4491d32839b61114f
+      internalID: -1228112084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_11
+      name: Orc-Peon-Cyan_11
       rect:
         serializedVersion: 2
         x: 361
@@ -342,14 +342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdfb4ff2d07b1bd4883a031a262024e3
-      internalID: -999349996
+      spriteID: 389ecc3b4ee2c6e44a371cb200c7eaa4
+      internalID: 1279141223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_12
+      name: Orc-Peon-Cyan_12
       rect:
         serializedVersion: 2
         x: 393
@@ -363,14 +363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed8c4d5c54979014cadf0cf1495fd823
-      internalID: 2036932763
+      spriteID: a346d4510ba43fd4ebe06278b27fcc3e
+      internalID: -1741818945
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_13
+      name: Orc-Peon-Cyan_13
       rect:
         serializedVersion: 2
         x: 424
@@ -384,14 +384,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69cb8f8b690d39244b788f2fc26c05c4
-      internalID: -159623680
+      spriteID: 85c922845c3158b4894d99073ceed128
+      internalID: 1662026446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_14
+      name: Orc-Peon-Cyan_14
       rect:
         serializedVersion: 2
         x: 456
@@ -405,14 +405,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef7721734a28b6345b3d71c1e7067836
-      internalID: 403357149
+      spriteID: e55b9c91d2da4c143abf125f298369da
+      internalID: -1905223474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_15
+      name: Orc-Peon-Cyan_15
       rect:
         serializedVersion: 2
         x: 489
@@ -426,14 +426,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66e5937aeac9d6d4f9a68a336796a238
-      internalID: 94748005
+      spriteID: 4c8b8be456d3e154e928782848b2642b
+      internalID: 958323811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_16
+      name: Orc-Peon-Cyan_16
       rect:
         serializedVersion: 2
         x: 521
@@ -447,14 +447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02e68a18d4318194a92c80df95bf70ee
-      internalID: 1720590638
+      spriteID: 6a8327abf75979c41adba6acf827c33d
+      internalID: -2000246973
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_17
+      name: Orc-Peon-Cyan_17
       rect:
         serializedVersion: 2
         x: 553
@@ -468,14 +468,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e267024ce4aa2344caaf8f602732d6a5
-      internalID: 684739830
+      spriteID: 32b81ac6bfd3ad141ae55ca84865296b
+      internalID: -1200672691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_18
+      name: Orc-Peon-Cyan_18
       rect:
         serializedVersion: 2
         x: 585
@@ -489,14 +489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8746633acc8462d41975dd8af705a9d0
-      internalID: -1146093394
+      spriteID: 81f600bbe86779546a64705187b81a99
+      internalID: -941313344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_19
+      name: Orc-Peon-Cyan_19
       rect:
         serializedVersion: 2
         x: 617
@@ -510,14 +510,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5753ae4faf9b4174388f8e901a01ad4d
-      internalID: 430681149
+      spriteID: 786691f85d5740a48922f424c4132a06
+      internalID: -1821382502
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_20
+      name: Orc-Peon-Cyan_20
       rect:
         serializedVersion: 2
         x: 648
@@ -531,14 +531,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b3f8590f86d6ae49ab63b9167d15010
-      internalID: -1975800139
+      spriteID: 45feaec7444196d488a1841ef3aeb5fc
+      internalID: 1528948695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_21
+      name: Orc-Peon-Cyan_21
       rect:
         serializedVersion: 2
         x: 680
@@ -552,14 +552,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ac74598e0334344e9abf6fba619f574
-      internalID: 1089177078
+      spriteID: 6e27f4974a9c82540ae98eff4bca881a
+      internalID: 748377102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_22
+      name: Orc-Peon-Cyan_22
       rect:
         serializedVersion: 2
         x: 713
@@ -573,14 +573,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcf970ca877d50b4ab3c127f408ba5b0
-      internalID: 350567737
+      spriteID: dfeb0bcaa84833240a56c49041669475
+      internalID: -1286578113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_23
+      name: Orc-Peon-Cyan_23
       rect:
         serializedVersion: 2
         x: 745
@@ -594,14 +594,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73787a8c5fe090341af1d8b70de020ef
-      internalID: 967462667
+      spriteID: daf60e6dff17c3240a2d4a949c06fe35
+      internalID: 1477582799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_24
+      name: Orc-Peon-Cyan_24
       rect:
         serializedVersion: 2
         x: 10
@@ -615,14 +615,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d622f02566dd43c4c93ed38a1fbeffed
-      internalID: 398872258
+      spriteID: 89fad93c680eb8f41900727beb8b2272
+      internalID: 1840603509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_25
+      name: Orc-Peon-Cyan_25
       rect:
         serializedVersion: 2
         x: 42
@@ -636,14 +636,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0dbaf6c910a53045a6a6b4304bafd6c
-      internalID: -893745909
+      spriteID: 16cf07c03abdd444998ad5fa114b3236
+      internalID: -1925301582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_26
+      name: Orc-Peon-Cyan_26
       rect:
         serializedVersion: 2
         x: 74
@@ -657,14 +657,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc255bad6250aa94aba474b17a9fcbdc
-      internalID: 677356098
+      spriteID: 7a37b37150a61a34aad3a64204fde8e7
+      internalID: -332254820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_27
+      name: Orc-Peon-Cyan_27
       rect:
         serializedVersion: 2
         x: 106
@@ -678,14 +678,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fd90ea26696c1d4195b26d446cda8a0
-      internalID: -1493112593
+      spriteID: 586434fad768e664488b871694c73dc8
+      internalID: 1938375073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_28
+      name: Orc-Peon-Cyan_28
       rect:
         serializedVersion: 2
         x: 138
@@ -699,14 +699,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 290a636a6683b4a49b3d01f107daf7f9
-      internalID: -1703671535
+      spriteID: 3a8d99a18ea2c0b4f8259aebb4eacee7
+      internalID: 81165623
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_29
+      name: Orc-Peon-Cyan_29
       rect:
         serializedVersion: 2
         x: 168
@@ -720,14 +720,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d60957fe38c3df84498eab349f81f0d0
-      internalID: -864484505
+      spriteID: 5bfa05eaa286f6648bab924262c8dc8c
+      internalID: 2139984669
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_30
+      name: Orc-Peon-Cyan_30
       rect:
         serializedVersion: 2
         x: 200
@@ -741,14 +741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e041e8db72e62c49b48774c7e3c7daf
-      internalID: 1121099588
+      spriteID: eb7e44ec946c1d74981a4f552a6b7aa3
+      internalID: 1117858688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_31
+      name: Orc-Peon-Cyan_31
       rect:
         serializedVersion: 2
         x: 234
@@ -762,14 +762,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95181da2c5f85dc4ead47f7a7ca08ccd
-      internalID: -1156528408
+      spriteID: 79af970843fcdac45a4cef164ceba34e
+      internalID: -867966982
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_32
+      name: Orc-Peon-Cyan_32
       rect:
         serializedVersion: 2
         x: 266
@@ -783,14 +783,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d54a90a897f0fa642beb16a50fa3239d
-      internalID: 964676026
+      spriteID: 8c475d52c9d07574187a423be1133ce1
+      internalID: -1468165633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_33
+      name: Orc-Peon-Cyan_33
       rect:
         serializedVersion: 2
         x: 298
@@ -804,14 +804,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd9c3fe54c032bb4c97874d0fe0043fd
-      internalID: -46741333
+      spriteID: b847bd1b8c281ee41ad2dc66d2cf7b34
+      internalID: 509213279
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_34
+      name: Orc-Peon-Cyan_34
       rect:
         serializedVersion: 2
         x: 329
@@ -825,14 +825,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2c359446370bda4691145d2a7793792
-      internalID: -22492851
+      spriteID: 9f3933dd654544a42bf3f45d85e31485
+      internalID: 650570105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_35
+      name: Orc-Peon-Cyan_35
       rect:
         serializedVersion: 2
         x: 361
@@ -846,14 +846,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28785b7dc385ad3408e06444a83a5cd4
-      internalID: 2116877212
+      spriteID: b5f431c2162cc724abdb1a94d1ea765d
+      internalID: -1650767055
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_36
+      name: Orc-Peon-Cyan_36
       rect:
         serializedVersion: 2
         x: 394
@@ -867,14 +867,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cedb1e5b38ec17742b65f5f0ab3d33e7
-      internalID: -1413970569
+      spriteID: 18968b70404f0a94d8c44835452e21b6
+      internalID: 438137420
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_37
+      name: Orc-Peon-Cyan_37
       rect:
         serializedVersion: 2
         x: 424
@@ -888,14 +888,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81fb9901c43aab04fba08b09dd80778e
-      internalID: 761146818
+      spriteID: 3af87defb2f71bf429a97513832aeafb
+      internalID: -1676748882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_38
+      name: Orc-Peon-Cyan_38
       rect:
         serializedVersion: 2
         x: 456
@@ -909,14 +909,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e044ef5f13c2b264f964dc2a3f8c8a77
-      internalID: 178805511
+      spriteID: d20fa0a465091e34eb447a921a9f6165
+      internalID: -501349016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_39
+      name: Orc-Peon-Cyan_39
       rect:
         serializedVersion: 2
         x: 490
@@ -930,14 +930,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfef8bf52ae99c24db4dfe3f27341699
-      internalID: -924197754
+      spriteID: ce7d8f70b6d06e646b1a8442a0bb6c31
+      internalID: -2091876749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_40
+      name: Orc-Peon-Cyan_40
       rect:
         serializedVersion: 2
         x: 521
@@ -951,14 +951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df7c4df1248c1f54e8da84b2e5863e2e
-      internalID: -108345661
+      spriteID: 57da9de603e01464bab2147e27d431f8
+      internalID: 87727196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_41
+      name: Orc-Peon-Cyan_41
       rect:
         serializedVersion: 2
         x: 553
@@ -972,14 +972,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d262ea83eea9df44a5e8978fb0e05d5
-      internalID: -1932755608
+      spriteID: b2b6026773b971c4387ad2dc437ca87b
+      internalID: 430160459
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_42
+      name: Orc-Peon-Cyan_42
       rect:
         serializedVersion: 2
         x: 586
@@ -993,14 +993,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d060f2770366c842b13b61bbe195d96
-      internalID: -262985042
+      spriteID: d3e498883e777db48a61f2d3b7858785
+      internalID: -2083815255
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_43
+      name: Orc-Peon-Cyan_43
       rect:
         serializedVersion: 2
         x: 617
@@ -1014,14 +1014,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7037d812005ec874289316e7a6d4926a
-      internalID: 1307647891
+      spriteID: 282d0b6cdc32f614fb9101f042e3dfe1
+      internalID: 1732672352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_44
+      name: Orc-Peon-Cyan_44
       rect:
         serializedVersion: 2
         x: 648
@@ -1035,14 +1035,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccc42595aeef33c41a431d9e86bc7048
-      internalID: 772409851
+      spriteID: f1134aec9b3a6bc46b460ab1a66c5da9
+      internalID: -528686482
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_45
+      name: Orc-Peon-Cyan_45
       rect:
         serializedVersion: 2
         x: 681
@@ -1056,14 +1056,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 174ec21de0db9594e818a9ddbd54ec07
-      internalID: 1904563358
+      spriteID: 67a0bfceb282b96469c99cb93740af6d
+      internalID: -360315160
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_46
+      name: Orc-Peon-Cyan_46
       rect:
         serializedVersion: 2
         x: 714
@@ -1077,14 +1077,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4290aa569df62494782d804a74db52c5
-      internalID: -2097143919
+      spriteID: ea4486828a861c247a8afa33f81383ca
+      internalID: -1534055742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_47
+      name: Orc-Peon-Cyan_47
       rect:
         serializedVersion: 2
         x: 744
@@ -1098,14 +1098,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3a48ae5675bb6640ad7d4b627827792
-      internalID: 2052744099
+      spriteID: 2db219d321d755742b9361c8e766d97f
+      internalID: 327679900
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_48
+      name: Orc-Peon-Cyan_48
       rect:
         serializedVersion: 2
         x: 11
@@ -1119,14 +1119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b03cc3709c71a3e418322e322db64f56
-      internalID: 1724720401
+      spriteID: 47805e0d5d49dde4a96391cf1f9e6451
+      internalID: -1269457334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_49
+      name: Orc-Peon-Cyan_49
       rect:
         serializedVersion: 2
         x: 43
@@ -1140,14 +1140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b191b0263399974da4e9df37c499395
-      internalID: -1192382138
+      spriteID: 8fd69030685cf324095cf07ab8239ca6
+      internalID: 676272021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_50
+      name: Orc-Peon-Cyan_50
       rect:
         serializedVersion: 2
         x: 75
@@ -1161,14 +1161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0dc8a4bb1da44942a77d39556fb6971
-      internalID: -1002885366
+      spriteID: d4150e40d1d525e45976818784ee2e27
+      internalID: -552756107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_51
+      name: Orc-Peon-Cyan_51
       rect:
         serializedVersion: 2
         x: 107
@@ -1182,14 +1182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7374f80d2adb77846a89afacab2576f7
-      internalID: 1289939053
+      spriteID: f21731396f3e5fc49a02e5867cc49e22
+      internalID: -1898930145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_52
+      name: Orc-Peon-Cyan_52
       rect:
         serializedVersion: 2
         x: 139
@@ -1203,14 +1203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 368c014f3f52adb4f883ba24afedb81d
-      internalID: 1789740565
+      spriteID: 2ef3407f096544848a2e820c1265ccd2
+      internalID: -719684637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_53
+      name: Orc-Peon-Cyan_53
       rect:
         serializedVersion: 2
         x: 170
@@ -1224,14 +1224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dadc4f5bede1b694aab7540fd9aa9139
-      internalID: 1391011984
+      spriteID: 1565c597510591f47bd335dcafb36ef1
+      internalID: -1715469143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_54
+      name: Orc-Peon-Cyan_54
       rect:
         serializedVersion: 2
         x: 202
@@ -1245,14 +1245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e513d671d786ca74e9887618c70465e7
-      internalID: 1352790289
+      spriteID: 12ea1d105fa82234da8b9512b9af8a09
+      internalID: -1101097398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_55
+      name: Orc-Peon-Cyan_55
       rect:
         serializedVersion: 2
         x: 235
@@ -1266,14 +1266,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6b4fa9393b9d3341b51b0c2cac6ce71
-      internalID: -1308712582
+      spriteID: 22f74e68f3c6eff4c8112f5af4ca82ec
+      internalID: 1317369254
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_56
+      name: Orc-Peon-Cyan_56
       rect:
         serializedVersion: 2
         x: 267
@@ -1287,14 +1287,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98621c9fa6f69c24b8dcfe62fa40f017
-      internalID: 1490619159
+      spriteID: 3a4f3759fea3a294aa684b2377770e56
+      internalID: 1196502605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_57
+      name: Orc-Peon-Cyan_57
       rect:
         serializedVersion: 2
         x: 299
@@ -1308,14 +1308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35102d38b86e6284d9fbd204f059e3ea
-      internalID: 2040832722
+      spriteID: 1160e5f1dfae4b94caa0543e3f55c5d7
+      internalID: 286573807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_58
+      name: Orc-Peon-Cyan_58
       rect:
         serializedVersion: 2
         x: 331
@@ -1329,14 +1329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a121d34124b325241a897c5fb211daff
-      internalID: 63369494
+      spriteID: 9dc8dff9951dce445b6020c043b9df35
+      internalID: -1742950799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_59
+      name: Orc-Peon-Cyan_59
       rect:
         serializedVersion: 2
         x: 363
@@ -1350,14 +1350,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e63b7cac6a7d674baee9427c8a42b33
-      internalID: -1323568067
+      spriteID: 01baf920a6b18334891ad62c1c807e48
+      internalID: 973568803
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_60
+      name: Orc-Peon-Cyan_60
       rect:
         serializedVersion: 2
         x: 395
@@ -1371,14 +1371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 463d0ef3ec8bb364780e7560f5546373
-      internalID: 1470590542
+      spriteID: 85fc73138a6049e4ba25c62301dd3a72
+      internalID: -1464754833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_61
+      name: Orc-Peon-Cyan_61
       rect:
         serializedVersion: 2
         x: 426
@@ -1392,14 +1392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 625dc64286081234bb0b48562bb1d189
-      internalID: 449728707
+      spriteID: 39a48f7ed469fed428ef458d300fdc0a
+      internalID: -2132485837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_62
+      name: Orc-Peon-Cyan_62
       rect:
         serializedVersion: 2
         x: 458
@@ -1413,14 +1413,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a52a535dc1c07f041b01996a8de5c6ea
-      internalID: -1043169149
+      spriteID: 25eb1b7c9160af5448ad330f430251b2
+      internalID: 1517068227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_63
+      name: Orc-Peon-Cyan_63
       rect:
         serializedVersion: 2
         x: 491
@@ -1434,14 +1434,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ae9b15358a427a4cb2dc2806d6edbb9
-      internalID: 751597176
+      spriteID: fd36c4f59fbd0c343a436b25bbcc6476
+      internalID: 655941814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_64
+      name: Orc-Peon-Cyan_64
       rect:
         serializedVersion: 2
         x: 523
@@ -1455,14 +1455,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56307a48b1ac4dc43b40284ad97d90c1
-      internalID: 2059984848
+      spriteID: 9942a26be5ecb2040be0880b39b38f9e
+      internalID: 373071280
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_65
+      name: Orc-Peon-Cyan_65
       rect:
         serializedVersion: 2
         x: 555
@@ -1476,14 +1476,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d95542055e616244865e052bb5bfa5c
-      internalID: 839386187
+      spriteID: 200bfbf30381c2742a6a0929e9fc0d5e
+      internalID: -739955938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_66
+      name: Orc-Peon-Cyan_66
       rect:
         serializedVersion: 2
         x: 587
@@ -1497,14 +1497,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6872895b7822c734daeef7a5459f356f
-      internalID: 453980140
+      spriteID: 034d6b566201f9d4ab3e3bbd10af3dde
+      internalID: 1123996565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_67
+      name: Orc-Peon-Cyan_67
       rect:
         serializedVersion: 2
         x: 619
@@ -1518,14 +1518,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 985bd94506dc3d7448fb8f6196d8274d
-      internalID: -220322056
+      spriteID: fbd30279f76aa3e4ea92934589cbbc6b
+      internalID: 2073348434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_68
+      name: Orc-Peon-Cyan_68
       rect:
         serializedVersion: 2
         x: 649
@@ -1539,14 +1539,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 012841faca001f34d991c63234ec736f
-      internalID: -1458326178
+      spriteID: 5a2f2bc470c2f954d882706f0487e96a
+      internalID: 2081130247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_69
+      name: Orc-Peon-Cyan_69
       rect:
         serializedVersion: 2
         x: 683
@@ -1560,14 +1560,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f8d3b8064745fe4ebe977cb4b6f1e33
-      internalID: -701123712
+      spriteID: d6cd9be2a91401c48af4ca3b21a8a0eb
+      internalID: -409464511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_70
+      name: Orc-Peon-Cyan_70
       rect:
         serializedVersion: 2
         x: 715
@@ -1581,14 +1581,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b04853f2541310446baf698b625c5d2f
-      internalID: -385799486
+      spriteID: 8178efff6f4e41344a797140254354a2
+      internalID: -1706029576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_71
+      name: Orc-Peon-Cyan_71
       rect:
         serializedVersion: 2
         x: 745
@@ -1602,14 +1602,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c2990dc32389c142a759b0150272d09
-      internalID: 1722737642
+      spriteID: 8fe532ee4aedeeb4598314ca386c38f1
+      internalID: -606048058
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_72
+      name: Orc-Peon-Cyan_72
       rect:
         serializedVersion: 2
         x: 10
@@ -1623,14 +1623,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4aa852bd7ef509e419e57c6ac948b696
-      internalID: -1734786094
+      spriteID: 011ed89fa6e1c984586a856b15e2ce7a
+      internalID: -1473009062
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_73
+      name: Orc-Peon-Cyan_73
       rect:
         serializedVersion: 2
         x: 42
@@ -1644,14 +1644,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bda8bce41c4cac44b346f2913b59f7d
-      internalID: 613215173
+      spriteID: 47fddddeda2cb7241b5416dc923f7c49
+      internalID: -1336991843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_74
+      name: Orc-Peon-Cyan_74
       rect:
         serializedVersion: 2
         x: 73
@@ -1665,14 +1665,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5f0e4cdaedee2c41932719fceccdd8c
-      internalID: 328733452
+      spriteID: b9173be49469a9343b7f8dcaf7cfd6d1
+      internalID: 513676854
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_75
+      name: Orc-Peon-Cyan_75
       rect:
         serializedVersion: 2
         x: 106
@@ -1686,14 +1686,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4a6966c498b35d4d9b309206d89c22b
-      internalID: 989296488
+      spriteID: f08e7de83b26b3640bff4455a5b9d448
+      internalID: 992545754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_76
+      name: Orc-Peon-Cyan_76
       rect:
         serializedVersion: 2
         x: 139
@@ -1707,14 +1707,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6144bb9c5797e174ea23774e9d2097c0
-      internalID: 175281172
+      spriteID: d3bcb9d2f62ab1448aa7482706015752
+      internalID: -388616770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_77
+      name: Orc-Peon-Cyan_77
       rect:
         serializedVersion: 2
         x: 171
@@ -1728,14 +1728,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 675ca33de26125a4eaf3837ffd4d6bdc
-      internalID: 1246274809
+      spriteID: bdcb28ecd843c45448fe33ade9df089e
+      internalID: 1012839944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_78
+      name: Orc-Peon-Cyan_78
       rect:
         serializedVersion: 2
         x: 203
@@ -1749,14 +1749,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c75f943fbfbc3c42aee46dc3cad1c51
-      internalID: -578457775
+      spriteID: 0ac4e3ae146835c47a0c647d22297625
+      internalID: -1651332256
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_79
+      name: Orc-Peon-Cyan_79
       rect:
         serializedVersion: 2
         x: 234
@@ -1770,14 +1770,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 653e82eac34b2664cb5e00e8c26eaf9c
-      internalID: 815892642
+      spriteID: 8596dbd5955b0654c9bd35a9bae8e353
+      internalID: -1177797418
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_80
+      name: Orc-Peon-Cyan_80
       rect:
         serializedVersion: 2
         x: 266
@@ -1791,14 +1791,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36ac8a19bd624584db6fff3b3727836c
-      internalID: -982514386
+      spriteID: d6fb94d5bf77d2c40b73de17e1907324
+      internalID: 2113563052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_81
+      name: Orc-Peon-Cyan_81
       rect:
         serializedVersion: 2
         x: 299
@@ -1812,14 +1812,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a24f74e1d518a454086cf3aac64e8e1f
-      internalID: 1088330811
+      spriteID: 0d745a61e3b955b498bb3e80fbeb0a37
+      internalID: 867569132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_82
+      name: Orc-Peon-Cyan_82
       rect:
         serializedVersion: 2
         x: 331
@@ -1833,14 +1833,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 956067f717749184e89a7d15f3a05141
-      internalID: -1258271395
+      spriteID: 17e7e4c5f29418746b21510e2b4fb4de
+      internalID: -1983304930
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_83
+      name: Orc-Peon-Cyan_83
       rect:
         serializedVersion: 2
         x: 363
@@ -1854,14 +1854,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4dba70a23606fa4288eb33d051b4bb2
-      internalID: 1534547023
+      spriteID: b1d0447c5aa975a4cbbe9b9aee979ebc
+      internalID: 1659890648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_84
+      name: Orc-Peon-Cyan_84
       rect:
         serializedVersion: 2
         x: 395
@@ -1875,14 +1875,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af24207a1c76188438be17ad0bbab9e5
-      internalID: -1060511628
+      spriteID: 859f78dc5695f6e4a8d9607dcb3bf8c7
+      internalID: -1709086485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_85
+      name: Orc-Peon-Cyan_85
       rect:
         serializedVersion: 2
         x: 427
@@ -1896,14 +1896,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c54c1135104cd2a4abc423380191e4de
-      internalID: -1378988089
+      spriteID: 7690a59d159131742bce337fade71086
+      internalID: -1966435894
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_86
+      name: Orc-Peon-Cyan_86
       rect:
         serializedVersion: 2
         x: 459
@@ -1917,14 +1917,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a278bf11cf6c68d4bbaf6af3945b4c34
-      internalID: 452128016
+      spriteID: 0db1da4252f2aad42b21bfea5600ddec
+      internalID: -1987235646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_87
+      name: Orc-Peon-Cyan_87
       rect:
         serializedVersion: 2
         x: 490
@@ -1938,14 +1938,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1833b4236724d0e488aaec899a3be09f
-      internalID: -279282206
+      spriteID: 597524c57d9153146b081f0f88942d6b
+      internalID: -2057961776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_88
+      name: Orc-Peon-Cyan_88
       rect:
         serializedVersion: 2
         x: 523
@@ -1959,14 +1959,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2772cd2f1a54c7242b101da506913d78
-      internalID: 1748015961
+      spriteID: 61fa15a1cb83cca4b869420286d0f4ce
+      internalID: 835428629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_89
+      name: Orc-Peon-Cyan_89
       rect:
         serializedVersion: 2
         x: 555
@@ -1980,14 +1980,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b1b2e980b17b4e4fb6f47a91e68b5d1
-      internalID: 107330824
+      spriteID: e1820496bf4f73a4090d574ed0dd6e40
+      internalID: 418979128
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_90
+      name: Orc-Peon-Cyan_90
       rect:
         serializedVersion: 2
         x: 586
@@ -2001,14 +2001,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92078cce144e62b48a301faf75deb472
-      internalID: 1206978091
+      spriteID: 4814485e02269c548bed037b1c5f49b4
+      internalID: 2078735053
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_91
+      name: Orc-Peon-Cyan_91
       rect:
         serializedVersion: 2
         x: 618
@@ -2022,14 +2022,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fafc18e662cb7a04e84616ed57c64fec
-      internalID: 871453366
+      spriteID: ec89ed042ccc9774faa0f2ee794aff0a
+      internalID: -1319540968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_92
+      name: Orc-Peon-Cyan_92
       rect:
         serializedVersion: 2
         x: 649
@@ -2043,14 +2043,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d6c4f5a467444340beb141f4c36ad38
-      internalID: -672682721
+      spriteID: 0da4a299d6207f7478dca0ca8a8dbd34
+      internalID: 115339246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_93
+      name: Orc-Peon-Cyan_93
       rect:
         serializedVersion: 2
         x: 682
@@ -2064,14 +2064,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7028560562c027a4ab2534ed4d6dc347
-      internalID: -2122552109
+      spriteID: 4534170098fed634dba76b70be31bc16
+      internalID: -839275345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_94
+      name: Orc-Peon-Cyan_94
       rect:
         serializedVersion: 2
         x: 714
@@ -2085,14 +2085,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c584c73b568738e49a3a446b93fcc386
-      internalID: -393367979
+      spriteID: 184898ba79909634fa76c633ebd981c6
+      internalID: 2069103719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_95
+      name: Orc-Peon-Cyan_95
       rect:
         serializedVersion: 2
         x: 745
@@ -2106,14 +2106,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6694102ab5f73fb41afde5781250fc94
-      internalID: -1229054543
+      spriteID: ec8f7ff0f77a5854f96410cac2cfe646
+      internalID: -903733426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_96
+      name: Orc-Peon-Cyan_96
       rect:
         serializedVersion: 2
         x: 9
@@ -2127,14 +2127,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae3806c1e8e7b1642bcab1b8993ac28f
-      internalID: 703221487
+      spriteID: caf38a15c22f2c34dbf5491ade7a644b
+      internalID: 1565372260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_97
+      name: Orc-Peon-Cyan_97
       rect:
         serializedVersion: 2
         x: 41
@@ -2148,14 +2148,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1615056b17f3c634c8f7ba1acb62a40e
-      internalID: 399742428
+      spriteID: 947b1c4d0b2d96c42b373209176e34cd
+      internalID: -1521072730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_98
+      name: Orc-Peon-Cyan_98
       rect:
         serializedVersion: 2
         x: 73
@@ -2169,14 +2169,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de7b640a43d0eac449ce14dd525775f4
-      internalID: 554152844
+      spriteID: 41c508f66eaf48f40bd512827f8557da
+      internalID: -1865031755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_99
+      name: Orc-Peon-Cyan_99
       rect:
         serializedVersion: 2
         x: 105
@@ -2190,14 +2190,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48ba4799271b63b4c896a5d4bcb942e8
-      internalID: 1774071377
+      spriteID: 44dc52533f8f0ca4ab8dcef86418a5d0
+      internalID: 529468075
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_100
+      name: Orc-Peon-Cyan_100
       rect:
         serializedVersion: 2
         x: 137
@@ -2211,14 +2211,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ff10a3ef0ed70147be6f71270b30d10
-      internalID: 1935387166
+      spriteID: 04a00ec4645a8a54b8756ef51393948d
+      internalID: 170823344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_101
+      name: Orc-Peon-Cyan_101
       rect:
         serializedVersion: 2
         x: 169
@@ -2232,14 +2232,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66bf8120a74a69947b12dc11ca0c089e
-      internalID: 2146961019
+      spriteID: 8143eaca7ac4c8449819b132b090c8b8
+      internalID: 368025433
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_102
+      name: Orc-Peon-Cyan_102
       rect:
         serializedVersion: 2
         x: 201
@@ -2253,14 +2253,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e5733e95f9778e42960de09124d82ea
-      internalID: -1204476334
+      spriteID: a4acfd3b5a459474eb0a208aff1dce6e
+      internalID: -1514828994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_103
+      name: Orc-Peon-Cyan_103
       rect:
         serializedVersion: 2
         x: 233
@@ -2274,14 +2274,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c16a48f138243c743b2167e6ad3b906c
-      internalID: 879496202
+      spriteID: a1c9cea6d7f31814abfebcf7d89b2282
+      internalID: -1546028152
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_104
+      name: Orc-Peon-Cyan_104
       rect:
         serializedVersion: 2
         x: 265
@@ -2295,14 +2295,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97dd6d973f67c4c4fbb516ac6fdbb885
-      internalID: 1064168731
+      spriteID: 9d7a7197da981d647999de7fc58142d5
+      internalID: 688593871
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_105
+      name: Orc-Peon-Cyan_105
       rect:
         serializedVersion: 2
         x: 297
@@ -2316,14 +2316,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0dba0ff572fbcd4a9b024617db1280a
-      internalID: -414368114
+      spriteID: d13a4224dc702d1459d3114b8456e724
+      internalID: -798251595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_106
+      name: Orc-Peon-Cyan_106
       rect:
         serializedVersion: 2
         x: 329
@@ -2337,14 +2337,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 152e1dd71a5778a45bb139857e5389e9
-      internalID: -1624953086
+      spriteID: 39b3b108e128f0048b8e2c36345c74c9
+      internalID: -2075567670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_107
+      name: Orc-Peon-Cyan_107
       rect:
         serializedVersion: 2
         x: 361
@@ -2358,14 +2358,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70ebdc76bcc460f4dad660338810600c
-      internalID: 1504196433
+      spriteID: 94790cbfd39aa10408b82f79b9db2fdf
+      internalID: -218556333
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_108
+      name: Orc-Peon-Cyan_108
       rect:
         serializedVersion: 2
         x: 393
@@ -2379,14 +2379,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbbfa6e7a5d30364195e680ec1ed0c75
-      internalID: -545134689
+      spriteID: 92b110e658634144db39eb45f4e6be07
+      internalID: 1946037830
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_109
+      name: Orc-Peon-Cyan_109
       rect:
         serializedVersion: 2
         x: 425
@@ -2400,14 +2400,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ee1cc251f3fdf049a087e654d0a5bb3
-      internalID: 902850747
+      spriteID: 872f20d905d00f048a486de533c7f755
+      internalID: 702422067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_110
+      name: Orc-Peon-Cyan_110
       rect:
         serializedVersion: 2
         x: 457
@@ -2421,14 +2421,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07af1d0bda0cc414586c80dff8caecc5
-      internalID: -1836463677
+      spriteID: 98c1c5c33ef739d43a0ec72153fe320b
+      internalID: -1752436052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_111
+      name: Orc-Peon-Cyan_111
       rect:
         serializedVersion: 2
         x: 489
@@ -2442,14 +2442,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4a27505ae936d248addc73463d42315
-      internalID: -1157572875
+      spriteID: 5af143a1f0c377447b03d170e5f9bfe7
+      internalID: -1326933005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_112
+      name: Orc-Peon-Cyan_112
       rect:
         serializedVersion: 2
         x: 521
@@ -2463,14 +2463,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8896e0c2bb3f79942b4530735be1300a
-      internalID: -1155708556
+      spriteID: 17c5de5d7604d454ab00f055c8976121
+      internalID: 1730075012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_113
+      name: Orc-Peon-Cyan_113
       rect:
         serializedVersion: 2
         x: 553
@@ -2484,14 +2484,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0cb34ecdc7925c409cd701e55827077
-      internalID: 822248763
+      spriteID: d7b5c1de34b11cc41b7b7af0e29d6b3a
+      internalID: 1436725929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_114
+      name: Orc-Peon-Cyan_114
       rect:
         serializedVersion: 2
         x: 585
@@ -2505,14 +2505,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbce4cdf674408a4eacca6bad0308d94
-      internalID: 1572398994
+      spriteID: 14a88d1a42db77c47929571a3303a63c
+      internalID: 991481577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_115
+      name: Orc-Peon-Cyan_115
       rect:
         serializedVersion: 2
         x: 617
@@ -2526,14 +2526,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d341c7c89629b604d8dc31e350026ea4
-      internalID: -1623729636
+      spriteID: 9b57b923c615bdd4bbd452e8d9de6480
+      internalID: 321701867
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_116
+      name: Orc-Peon-Cyan_116
       rect:
         serializedVersion: 2
         x: 648
@@ -2547,14 +2547,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b8d9f2c344cfeb499b77f9b6e709d2f
-      internalID: -1033734443
+      spriteID: 35a3ae6ab61078d4888e7837cfa618b9
+      internalID: 941234344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_117
+      name: Orc-Peon-Cyan_117
       rect:
         serializedVersion: 2
         x: 680
@@ -2568,14 +2568,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00b0f4a3652a6104eb49eb8070b685f4
-      internalID: -1801681305
+      spriteID: bcd87698cb8573348a281b411b7a6f52
+      internalID: -1170209342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_118
+      name: Orc-Peon-Cyan_118
       rect:
         serializedVersion: 2
         x: 713
@@ -2589,14 +2589,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 675198462c375ac47b0d8df88d94136d
-      internalID: -1744537817
+      spriteID: c407f513276b9bd478f0bd33528abb26
+      internalID: 1795433656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_119
+      name: Orc-Peon-Cyan_119
       rect:
         serializedVersion: 2
         x: 745
@@ -2610,14 +2610,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d783de049c1d384f89d0ba0ad23e725
-      internalID: -988262107
+      spriteID: 09b8e858cfe650a42a0eba3fa8725bab
+      internalID: 736048908
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_120
+      name: Orc-Peon-Cyan_120
       rect:
         serializedVersion: 2
         x: 10
@@ -2631,14 +2631,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b760358c3d5bab4b8c276738d27aecc
-      internalID: 766228915
+      spriteID: f68b45e8192bc77458285d21258f27b2
+      internalID: -1152019055
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_121
+      name: Orc-Peon-Cyan_121
       rect:
         serializedVersion: 2
         x: 42
@@ -2652,14 +2652,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9095b8e74d826484388f32ac43f45add
-      internalID: 556304866
+      spriteID: bc74a62c4ec4fc445a7a07ed64d0b482
+      internalID: 368714436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_122
+      name: Orc-Peon-Cyan_122
       rect:
         serializedVersion: 2
         x: 74
@@ -2673,14 +2673,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db364a26a7ec936498b88660c5c6ef10
-      internalID: -236314134
+      spriteID: 420166eb10b70a2429c9ad328fb6f897
+      internalID: 477223839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_123
+      name: Orc-Peon-Cyan_123
       rect:
         serializedVersion: 2
         x: 106
@@ -2694,14 +2694,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c25e881a1af4a4c4c9aaafaf6267d0b0
-      internalID: 676847623
+      spriteID: 2ba9cd8f72982f748838935bc657f659
+      internalID: 254518945
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_124
+      name: Orc-Peon-Cyan_124
       rect:
         serializedVersion: 2
         x: 139
@@ -2715,14 +2715,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 921ef0f0d5bb55942930c50755f2cf9c
-      internalID: 753218855
+      spriteID: b5d1ee374575f904ca9e2762fc969be1
+      internalID: 627839432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_125
+      name: Orc-Peon-Cyan_125
       rect:
         serializedVersion: 2
         x: 170
@@ -2736,14 +2736,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 028b2e13226bf824bb30cba1662276ce
-      internalID: 1423180875
+      spriteID: 13c8edc60c718ee4f84b1161b08a3f2c
+      internalID: -279233515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_126
+      name: Orc-Peon-Cyan_126
       rect:
         serializedVersion: 2
         x: 202
@@ -2757,14 +2757,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e86aed2a2b230a04f87d3c650b022a5f
-      internalID: -272739633
+      spriteID: a07d43c6abadc014d99aaa2b288cb294
+      internalID: 2024994435
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_127
+      name: Orc-Peon-Cyan_127
       rect:
         serializedVersion: 2
         x: 232
@@ -2778,14 +2778,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f3a3dbf43772194e9382d98cb2c5f01
-      internalID: -1262628336
+      spriteID: 4efb927d260cd7f4bbf16e1db1e1da19
+      internalID: 458779034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_128
+      name: Orc-Peon-Cyan_128
       rect:
         serializedVersion: 2
         x: 265
@@ -2799,14 +2799,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73d1937ff6770ee45a12b4408843e178
-      internalID: -1897595723
+      spriteID: b87909cf52400a9489cbc36abdb77608
+      internalID: -799156951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_129
+      name: Orc-Peon-Cyan_129
       rect:
         serializedVersion: 2
         x: 296
@@ -2820,14 +2820,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 478a7b3809bb0d440954e2beb5e67cc0
-      internalID: -691281985
+      spriteID: 7d840f47d2811ee43a7915eec380590d
+      internalID: -617334795
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_130
+      name: Orc-Peon-Cyan_130
       rect:
         serializedVersion: 2
         x: 328
@@ -2841,14 +2841,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1142ab0e65f6667439bce659490c01c1
-      internalID: 708608632
+      spriteID: d1d31e6868b933047ad1bc53441f9cee
+      internalID: 1839094784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_131
+      name: Orc-Peon-Cyan_131
       rect:
         serializedVersion: 2
         x: 360
@@ -2862,14 +2862,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: abf4a2ea087d6d640b8798c7e908eeb9
-      internalID: -351385044
+      spriteID: 4beb2faea29666c4dbf1f54a53e87bdc
+      internalID: 1951961402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_132
+      name: Orc-Peon-Cyan_132
       rect:
         serializedVersion: 2
         x: 392
@@ -2883,14 +2883,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84df7f085e86d3d4ea5c655080807089
-      internalID: 775902867
+      spriteID: 8bf0bb0f596da824699f2b9143b0a925
+      internalID: -1507699257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_133
+      name: Orc-Peon-Cyan_133
       rect:
         serializedVersion: 2
         x: 426
@@ -2904,14 +2904,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2caf3cc338ef284aa0658df754ee5ab
-      internalID: 1011510233
+      spriteID: 2cfce88428544914a824c2f7d24a5614
+      internalID: -1841013913
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_134
+      name: Orc-Peon-Cyan_134
       rect:
         serializedVersion: 2
         x: 458
@@ -2925,14 +2925,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87400fc5a33b0d247b2235d3cc7558d5
-      internalID: -33111835
+      spriteID: 353931ead60768c489978b7f7882a162
+      internalID: -515493243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_135
+      name: Orc-Peon-Cyan_135
       rect:
         serializedVersion: 2
         x: 486
@@ -2946,14 +2946,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4bd245ebf698f44e82f3cf2480c3356
-      internalID: 677050751
+      spriteID: 225f43312bd748d4798cbafa3a675624
+      internalID: -261680688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_136
+      name: Orc-Peon-Cyan_136
       rect:
         serializedVersion: 2
         x: 522
@@ -2967,14 +2967,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eaa80387aeef1a540a26904b78ecbc63
-      internalID: -1873810373
+      spriteID: e55648b331989fe4882fbf464d585278
+      internalID: -1156134319
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_137
+      name: Orc-Peon-Cyan_137
       rect:
         serializedVersion: 2
         x: 554
@@ -2988,14 +2988,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a12e41c5ffb41f4b9268497e1fc8455
-      internalID: -1597878180
+      spriteID: 02d903d8e133c67478f454ca8e2dd1a5
+      internalID: 16897477
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_138
+      name: Orc-Peon-Cyan_138
       rect:
         serializedVersion: 2
         x: 587
@@ -3009,14 +3009,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba8c95db66dfd704b9fa7dab0e064487
-      internalID: -526686410
+      spriteID: 69538db862d63dd4a8c843ccb1601ae1
+      internalID: 1933699249
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_139
+      name: Orc-Peon-Cyan_139
       rect:
         serializedVersion: 2
         x: 618
@@ -3030,14 +3030,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8919238caf66bd84f8f81c4fccc8dc92
-      internalID: -536580707
+      spriteID: 691f42f2bf3586c48b2271c6f776e3b8
+      internalID: -536372806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_140
+      name: Orc-Peon-Cyan_140
       rect:
         serializedVersion: 2
         x: 651
@@ -3051,14 +3051,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1809ac9ce7d614e4e88bb4a1970bd700
-      internalID: -258859012
+      spriteID: 982b7aa8f8dcfba41b3001be19ec6950
+      internalID: 2074011446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_141
+      name: Orc-Peon-Cyan_141
       rect:
         serializedVersion: 2
         x: 682
@@ -3072,14 +3072,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bfd3d5006aa6b744ba4b961b5469725
-      internalID: -732546415
+      spriteID: 7d1054f59599d7842b3201fb7f15964c
+      internalID: -100446161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_142
+      name: Orc-Peon-Cyan_142
       rect:
         serializedVersion: 2
         x: 714
@@ -3093,14 +3093,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb54036c03209f8498e31aa0c3415bd8
-      internalID: 2018622782
+      spriteID: 8ae19c328ed80ed468936e1ba02c6320
+      internalID: 255606308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_143
+      name: Orc-Peon-Cyan_143
       rect:
         serializedVersion: 2
         x: 746
@@ -3114,14 +3114,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba1e3f7144322c64b8c83ac1d9e2b601
-      internalID: 2076697481
+      spriteID: 69f5e303246023643838aa57c08a82a1
+      internalID: -1105481617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_144
+      name: Orc-Peon-Cyan_144
       rect:
         serializedVersion: 2
         x: 11
@@ -3135,14 +3135,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6426c78b1eae92246b0911920d7a1c6f
-      internalID: -1711146815
+      spriteID: 907386e602f687b42a6cd4024fecc060
+      internalID: 460906787
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_145
+      name: Orc-Peon-Cyan_145
       rect:
         serializedVersion: 2
         x: 43
@@ -3156,14 +3156,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45b0f495d22322641a70f26c3bfb1545
-      internalID: -100731305
+      spriteID: 0fbfb043ca00fd14988c5858a814b587
+      internalID: -1211654869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_146
+      name: Orc-Peon-Cyan_146
       rect:
         serializedVersion: 2
         x: 75
@@ -3177,14 +3177,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d27a37a1e3c636747bb2a6a72b5621b6
-      internalID: 967972414
+      spriteID: 43092fffc2c2d55429a9eecbe368d1a7
+      internalID: 1165371148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_147
+      name: Orc-Peon-Cyan_147
       rect:
         serializedVersion: 2
         x: 107
@@ -3198,14 +3198,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ea69ec4f56375347acfc586fd21aa50
-      internalID: -265290680
+      spriteID: d23b7ebb2cd252840a2a1a40643ac618
+      internalID: 1471096869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_148
+      name: Orc-Peon-Cyan_148
       rect:
         serializedVersion: 2
         x: 138
@@ -3219,14 +3219,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b13c0bf1850386941b64382bb0499eb6
-      internalID: -1469603351
+      spriteID: 62011b0ade426b6448bfbf2a3cec6e27
+      internalID: -2055000700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_149
+      name: Orc-Peon-Cyan_149
       rect:
         serializedVersion: 2
         x: 170
@@ -3240,14 +3240,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 550a508fd3ffc5948946e6b973066337
-      internalID: -761064413
+      spriteID: aadc3bc690fe02b4f85cfb158c778df6
+      internalID: 1796344552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_150
+      name: Orc-Peon-Cyan_150
       rect:
         serializedVersion: 2
         x: 202
@@ -3261,14 +3261,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8f1f73e0ffc13c4f8c56d9fec633a49
-      internalID: -2127912881
+      spriteID: 22e9b0b0a1e0c9f48b74524c648ec7f6
+      internalID: -1125358850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_151
+      name: Orc-Peon-Cyan_151
       rect:
         serializedVersion: 2
         x: 232
@@ -3282,14 +3282,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6cb02d890dea65e45b735149693642f6
-      internalID: -97870783
+      spriteID: d9a4261156004604c8065c69e063c245
+      internalID: -1050619538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_152
+      name: Orc-Peon-Cyan_152
       rect:
         serializedVersion: 2
         x: 264
@@ -3303,14 +3303,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8242b93910bb89c4cb7954eb9ff7f1bb
-      internalID: -2085986868
+      spriteID: 691aae86e0da5904d9a5a1874798ebc1
+      internalID: 1185959837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_153
+      name: Orc-Peon-Cyan_153
       rect:
         serializedVersion: 2
         x: 295
@@ -3324,14 +3324,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0523a35a08541146927e8a7716e13ac
-      internalID: 1466778620
+      spriteID: 8c4517bc7eb17924e8acbfb1a3213af9
+      internalID: 1004797075
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_154
+      name: Orc-Peon-Cyan_154
       rect:
         serializedVersion: 2
         x: 329
@@ -3345,14 +3345,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 413cf61503d187d4b8ba05a1f82a0a9a
-      internalID: 2130173548
+      spriteID: db56ce45d69117344a8c0e68b3337f55
+      internalID: 413428347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_155
+      name: Orc-Peon-Cyan_155
       rect:
         serializedVersion: 2
         x: 360
@@ -3366,14 +3366,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f00ff8fc201a004eb5eb9d8e55eeea3
-      internalID: 1828141841
+      spriteID: d539caafa89ca054ea8f977c20d5d3ea
+      internalID: -148409753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_156
+      name: Orc-Peon-Cyan_156
       rect:
         serializedVersion: 2
         x: 392
@@ -3387,14 +3387,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17aedd1053d5b6647a820c0d4fba664f
-      internalID: -617534729
+      spriteID: 208c79980d2f86f448032e9d56f31099
+      internalID: 925914731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_157
+      name: Orc-Peon-Cyan_157
       rect:
         serializedVersion: 2
         x: 426
@@ -3408,14 +3408,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb9631650d7a423419c7c43548b5b15c
-      internalID: 2046790685
+      spriteID: 90fb29c50a8609446ba8dea97dcad6fe
+      internalID: 803111020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_158
+      name: Orc-Peon-Cyan_158
       rect:
         serializedVersion: 2
         x: 458
@@ -3429,14 +3429,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fba9421505c8fee45a1857aecbc67fb8
-      internalID: -1895350778
+      spriteID: c5e093fe1ac2d4a46933693450d0ce99
+      internalID: 999179830
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_159
+      name: Orc-Peon-Cyan_159
       rect:
         serializedVersion: 2
         x: 486
@@ -3450,14 +3450,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5149cd1b8cd32c349ab4b2fb57a587df
-      internalID: 1852368073
+      spriteID: a3bb1464a1b1899409169973c35af3a0
+      internalID: -1469198780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_160
+      name: Orc-Peon-Cyan_160
       rect:
         serializedVersion: 2
         x: 522
@@ -3471,14 +3471,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efcb081092f45d246934657e7cb6b9fe
-      internalID: -1143382826
+      spriteID: e65b5056a45c473438e01d4c27d0078b
+      internalID: 1762520337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_161
+      name: Orc-Peon-Cyan_161
       rect:
         serializedVersion: 2
         x: 554
@@ -3492,14 +3492,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44610c562c4eed246a7abc9919a9ba65
-      internalID: -2085051607
+      spriteID: d59de7de93d4fa6458fd505f21b80400
+      internalID: 2143568467
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_162
+      name: Orc-Peon-Cyan_162
       rect:
         serializedVersion: 2
         x: 586
@@ -3513,14 +3513,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78c82b2226bf752418c90333da86bfb6
-      internalID: -745460935
+      spriteID: 11ef7cc737284c146a42c95129b52589
+      internalID: -955863390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_163
+      name: Orc-Peon-Cyan_163
       rect:
         serializedVersion: 2
         x: 619
@@ -3534,14 +3534,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca74d8b3ac257794890c2b4bc18c622f
-      internalID: 611869490
+      spriteID: 80cad8127afc1d541baa63c2b5cc0e4e
+      internalID: -261382575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_164
+      name: Orc-Peon-Cyan_164
       rect:
         serializedVersion: 2
         x: 652
@@ -3555,14 +3555,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dfe93507d028c9a49a7d7b72113fe770
-      internalID: 1196087192
+      spriteID: 8640d0d881d4fb842a0bd76048d98901
+      internalID: -1073588850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_165
+      name: Orc-Peon-Cyan_165
       rect:
         serializedVersion: 2
         x: 682
@@ -3576,14 +3576,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14c5c6a2560fd604893538700b97239f
-      internalID: -2055726496
+      spriteID: c5cdafc7681be404cb32461694f3f5aa
+      internalID: -1305316529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_166
+      name: Orc-Peon-Cyan_166
       rect:
         serializedVersion: 2
         x: 715
@@ -3597,14 +3597,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ecfb1dff66e53c41b85c36930522082
-      internalID: -2001656590
+      spriteID: a43e7fa02f0456d47916b14be4a5cdef
+      internalID: 336430709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_167
+      name: Orc-Peon-Cyan_167
       rect:
         serializedVersion: 2
         x: 744
@@ -3618,14 +3618,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8582d60e3bfd8c74f8ba7aee3bb1788a
-      internalID: 2011208435
+      spriteID: bd245f7c274c86c4aaf38340601b2cd2
+      internalID: -147307455
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_168
+      name: Orc-Peon-Cyan_168
       rect:
         serializedVersion: 2
         x: 10
@@ -3639,14 +3639,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0445626947bf714c936dbbd601864b2
-      internalID: 2116853157
+      spriteID: e936c3d401d85074886aedfe8ea9ac63
+      internalID: -973334666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_169
+      name: Orc-Peon-Cyan_169
       rect:
         serializedVersion: 2
         x: 42
@@ -3660,14 +3660,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b5a354133f7f414280405343cb6f12a
-      internalID: -1385653524
+      spriteID: 4a433dccb7cd5e5438aebc4d34227b64
+      internalID: 1962027683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_170
+      name: Orc-Peon-Cyan_170
       rect:
         serializedVersion: 2
         x: 73
@@ -3681,14 +3681,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01faaabacc3ee664ab3e90055c99a5e7
-      internalID: -929639909
+      spriteID: e95aa6e4bb27f6e47ad78799ef83ec09
+      internalID: 2144952920
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_171
+      name: Orc-Peon-Cyan_171
       rect:
         serializedVersion: 2
         x: 106
@@ -3702,14 +3702,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65638331f342f1a4f9fe4c8601865a75
-      internalID: -170232486
+      spriteID: cd567a6ec90370746a0a501a8ae8a903
+      internalID: -1029986826
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_172
+      name: Orc-Peon-Cyan_172
       rect:
         serializedVersion: 2
         x: 138
@@ -3723,14 +3723,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f7cce6e75258be459e494e813a51d50
-      internalID: 2202287
+      spriteID: d4ae829f14dc4054c98b599f7a37137e
+      internalID: -1846647773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_173
+      name: Orc-Peon-Cyan_173
       rect:
         serializedVersion: 2
         x: 170
@@ -3744,14 +3744,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 262c3bb6dd5c0a44c9a8b71aad7f8c53
-      internalID: -1867202591
+      spriteID: c27750e5092c0574297056540f2ef30e
+      internalID: 510396838
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_174
+      name: Orc-Peon-Cyan_174
       rect:
         serializedVersion: 2
         x: 202
@@ -3765,14 +3765,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e99fe94b9bf8cea499068b58eab6bfd6
-      internalID: 963864332
+      spriteID: d2501d9b2fdf2674b947816f19a524c0
+      internalID: -108516091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_175
+      name: Orc-Peon-Cyan_175
       rect:
         serializedVersion: 2
         x: 232
@@ -3786,14 +3786,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bad551f9420d1e548a7f738eadfa1a2d
-      internalID: 719434017
+      spriteID: 37744486a8d49d74b9f68f031d636c83
+      internalID: 822292331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_176
+      name: Orc-Peon-Cyan_176
       rect:
         serializedVersion: 2
         x: 265
@@ -3807,14 +3807,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4a0083b02ccbe1a429689b45681c3458
-      internalID: 315606810
+      spriteID: 8176eae8168a9dc4591d708398b6b879
+      internalID: 75795929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_177
+      name: Orc-Peon-Cyan_177
       rect:
         serializedVersion: 2
         x: 297
@@ -3828,14 +3828,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 718219bd2e927bd408fc736c40db6d77
-      internalID: 1938043317
+      spriteID: 49eab7324e67fe34dbab77aef0d84cee
+      internalID: -465787338
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_178
+      name: Orc-Peon-Cyan_178
       rect:
         serializedVersion: 2
         x: 328
@@ -3849,14 +3849,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 139af902f207d3f43b46da93a6998a82
-      internalID: 448723631
+      spriteID: 08905ea0465460e46bfdef1678e25fac
+      internalID: 2093269565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_179
+      name: Orc-Peon-Cyan_179
       rect:
         serializedVersion: 2
         x: 360
@@ -3870,14 +3870,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13bf33b6019269d45a34ceb91811bff0
-      internalID: 2060100797
+      spriteID: cc58a920a3c0bf54c8353ca27f478e2a
+      internalID: -2038065203
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_180
+      name: Orc-Peon-Cyan_180
       rect:
         serializedVersion: 2
         x: 392
@@ -3891,14 +3891,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f0495a32140ef54598c7ca99080f865
-      internalID: 1341984025
+      spriteID: 8536136df0ff96d41bb5aaca1f9e884a
+      internalID: -204662525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_181
+      name: Orc-Peon-Cyan_181
       rect:
         serializedVersion: 2
         x: 426
@@ -3912,14 +3912,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 197cf166088123c4aab749e399774c01
-      internalID: 467937390
+      spriteID: 0160bc12f362ae9498881dbade8b98ce
+      internalID: 646220751
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_182
+      name: Orc-Peon-Cyan_182
       rect:
         serializedVersion: 2
         x: 458
@@ -3933,14 +3933,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b3244ac3c310834f92be82e94606193
-      internalID: -1610565566
+      spriteID: 4ddf707c0bed4034c93703cc7663d353
+      internalID: 1013005695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_183
+      name: Orc-Peon-Cyan_183
       rect:
         serializedVersion: 2
         x: 487
@@ -3954,14 +3954,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90d2b4113a15f7d4d910fddd7fa0a4e5
-      internalID: -172289648
+      spriteID: 76bf06bafab7a244da20d7e46a889ecb
+      internalID: 721660083
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_184
+      name: Orc-Peon-Cyan_184
       rect:
         serializedVersion: 2
         x: 522
@@ -3975,14 +3975,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b99e876d7754bd429a1a6516c69824b
-      internalID: 681493732
+      spriteID: 5be895a013a64d24bac01d20f8859a57
+      internalID: -104155104
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_185
+      name: Orc-Peon-Cyan_185
       rect:
         serializedVersion: 2
         x: 554
@@ -3996,14 +3996,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9caaedb634ceb7b44970e8e1add98309
-      internalID: -609099208
+      spriteID: 7c6a2b5be411b2d4c955a82c4071a7c0
+      internalID: -326273299
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_186
+      name: Orc-Peon-Cyan_186
       rect:
         serializedVersion: 2
         x: 586
@@ -4017,14 +4017,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efb07bbc91faebe48bb6f87b2b452a99
-      internalID: -1947072643
+      spriteID: a6b7fd2e484884946baee0f73a984563
+      internalID: 1712594843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_187
+      name: Orc-Peon-Cyan_187
       rect:
         serializedVersion: 2
         x: 618
@@ -4038,14 +4038,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f62cba80c059ec4dad75fc9c7e0d731
-      internalID: 740134701
+      spriteID: 2533d9e4b2cea0147addc58fa8d7c2fa
+      internalID: 174860968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_188
+      name: Orc-Peon-Cyan_188
       rect:
         serializedVersion: 2
         x: 651
@@ -4059,14 +4059,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04251f3e5aa7db94e85af6a1e8cc3d56
-      internalID: -1889135891
+      spriteID: 63f8f32a0d14c384fa371442807bf2b2
+      internalID: 1835905389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_189
+      name: Orc-Peon-Cyan_189
       rect:
         serializedVersion: 2
         x: 682
@@ -4080,14 +4080,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97dffcbd61b1bb24b9676c732e32391d
-      internalID: 2126203774
+      spriteID: a346a42eaf4345e4fae28135f5545c64
+      internalID: 685286084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_190
+      name: Orc-Peon-Cyan_190
       rect:
         serializedVersion: 2
         x: 714
@@ -4101,14 +4101,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b487778acf4c4a48ac677c3f7526066
-      internalID: -480936231
+      spriteID: ee4706479adc4364c8eb3f56a42afade
+      internalID: 559631481
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc-Peon-Red_191
+      name: Orc-Peon-Cyan_191
       rect:
         serializedVersion: 2
         x: 745
@@ -4122,8 +4122,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f195317a3d5d8e544a80326ab76ef7fd
-      internalID: 206392943
+      spriteID: 2184ae927e06613418b037440b2619b4
+      internalID: -842598856
       vertices: []
       indices: 
       edges: []
@@ -4139,198 +4139,198 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Orc-Peon-Red_0: 1056791125
-      Orc-Peon-Red_1: 2083332851
-      Orc-Peon-Red_10: -1737411926
-      Orc-Peon-Red_100: 1935387166
-      Orc-Peon-Red_101: 2146961019
-      Orc-Peon-Red_102: -1204476334
-      Orc-Peon-Red_103: 879496202
-      Orc-Peon-Red_104: 1064168731
-      Orc-Peon-Red_105: -414368114
-      Orc-Peon-Red_106: -1624953086
-      Orc-Peon-Red_107: 1504196433
-      Orc-Peon-Red_108: -545134689
-      Orc-Peon-Red_109: 902850747
-      Orc-Peon-Red_11: -999349996
-      Orc-Peon-Red_110: -1836463677
-      Orc-Peon-Red_111: -1157572875
-      Orc-Peon-Red_112: -1155708556
-      Orc-Peon-Red_113: 822248763
-      Orc-Peon-Red_114: 1572398994
-      Orc-Peon-Red_115: -1623729636
-      Orc-Peon-Red_116: -1033734443
-      Orc-Peon-Red_117: -1801681305
-      Orc-Peon-Red_118: -1744537817
-      Orc-Peon-Red_119: -988262107
-      Orc-Peon-Red_12: 2036932763
-      Orc-Peon-Red_120: 766228915
-      Orc-Peon-Red_121: 556304866
-      Orc-Peon-Red_122: -236314134
-      Orc-Peon-Red_123: 676847623
-      Orc-Peon-Red_124: 753218855
-      Orc-Peon-Red_125: 1423180875
-      Orc-Peon-Red_126: -272739633
-      Orc-Peon-Red_127: -1262628336
-      Orc-Peon-Red_128: -1897595723
-      Orc-Peon-Red_129: -691281985
-      Orc-Peon-Red_13: -159623680
-      Orc-Peon-Red_130: 708608632
-      Orc-Peon-Red_131: -351385044
-      Orc-Peon-Red_132: 775902867
-      Orc-Peon-Red_133: 1011510233
-      Orc-Peon-Red_134: -33111835
-      Orc-Peon-Red_135: 677050751
-      Orc-Peon-Red_136: -1873810373
-      Orc-Peon-Red_137: -1597878180
-      Orc-Peon-Red_138: -526686410
-      Orc-Peon-Red_139: -536580707
-      Orc-Peon-Red_14: 403357149
-      Orc-Peon-Red_140: -258859012
-      Orc-Peon-Red_141: -732546415
-      Orc-Peon-Red_142: 2018622782
-      Orc-Peon-Red_143: 2076697481
-      Orc-Peon-Red_144: -1711146815
-      Orc-Peon-Red_145: -100731305
-      Orc-Peon-Red_146: 967972414
-      Orc-Peon-Red_147: -265290680
-      Orc-Peon-Red_148: -1469603351
-      Orc-Peon-Red_149: -761064413
-      Orc-Peon-Red_15: 94748005
-      Orc-Peon-Red_150: -2127912881
-      Orc-Peon-Red_151: -97870783
-      Orc-Peon-Red_152: -2085986868
-      Orc-Peon-Red_153: 1466778620
-      Orc-Peon-Red_154: 2130173548
-      Orc-Peon-Red_155: 1828141841
-      Orc-Peon-Red_156: -617534729
-      Orc-Peon-Red_157: 2046790685
-      Orc-Peon-Red_158: -1895350778
-      Orc-Peon-Red_159: 1852368073
-      Orc-Peon-Red_16: 1720590638
-      Orc-Peon-Red_160: -1143382826
-      Orc-Peon-Red_161: -2085051607
-      Orc-Peon-Red_162: -745460935
-      Orc-Peon-Red_163: 611869490
-      Orc-Peon-Red_164: 1196087192
-      Orc-Peon-Red_165: -2055726496
-      Orc-Peon-Red_166: -2001656590
-      Orc-Peon-Red_167: 2011208435
-      Orc-Peon-Red_168: 2116853157
-      Orc-Peon-Red_169: -1385653524
-      Orc-Peon-Red_17: 684739830
-      Orc-Peon-Red_170: -929639909
-      Orc-Peon-Red_171: -170232486
-      Orc-Peon-Red_172: 2202287
-      Orc-Peon-Red_173: -1867202591
-      Orc-Peon-Red_174: 963864332
-      Orc-Peon-Red_175: 719434017
-      Orc-Peon-Red_176: 315606810
-      Orc-Peon-Red_177: 1938043317
-      Orc-Peon-Red_178: 448723631
-      Orc-Peon-Red_179: 2060100797
-      Orc-Peon-Red_18: -1146093394
-      Orc-Peon-Red_180: 1341984025
-      Orc-Peon-Red_181: 467937390
-      Orc-Peon-Red_182: -1610565566
-      Orc-Peon-Red_183: -172289648
-      Orc-Peon-Red_184: 681493732
-      Orc-Peon-Red_185: -609099208
-      Orc-Peon-Red_186: -1947072643
-      Orc-Peon-Red_187: 740134701
-      Orc-Peon-Red_188: -1889135891
-      Orc-Peon-Red_189: 2126203774
-      Orc-Peon-Red_19: 430681149
-      Orc-Peon-Red_190: -480936231
-      Orc-Peon-Red_191: 206392943
-      Orc-Peon-Red_2: 1280242609
-      Orc-Peon-Red_20: -1975800139
-      Orc-Peon-Red_21: 1089177078
-      Orc-Peon-Red_22: 350567737
-      Orc-Peon-Red_23: 967462667
-      Orc-Peon-Red_24: 398872258
-      Orc-Peon-Red_25: -893745909
-      Orc-Peon-Red_26: 677356098
-      Orc-Peon-Red_27: -1493112593
-      Orc-Peon-Red_28: -1703671535
-      Orc-Peon-Red_29: -864484505
-      Orc-Peon-Red_3: -1309471371
-      Orc-Peon-Red_30: 1121099588
-      Orc-Peon-Red_31: -1156528408
-      Orc-Peon-Red_32: 964676026
-      Orc-Peon-Red_33: -46741333
-      Orc-Peon-Red_34: -22492851
-      Orc-Peon-Red_35: 2116877212
-      Orc-Peon-Red_36: -1413970569
-      Orc-Peon-Red_37: 761146818
-      Orc-Peon-Red_38: 178805511
-      Orc-Peon-Red_39: -924197754
-      Orc-Peon-Red_4: -1084317548
-      Orc-Peon-Red_40: -108345661
-      Orc-Peon-Red_41: -1932755608
-      Orc-Peon-Red_42: -262985042
-      Orc-Peon-Red_43: 1307647891
-      Orc-Peon-Red_44: 772409851
-      Orc-Peon-Red_45: 1904563358
-      Orc-Peon-Red_46: -2097143919
-      Orc-Peon-Red_47: 2052744099
-      Orc-Peon-Red_48: 1724720401
-      Orc-Peon-Red_49: -1192382138
-      Orc-Peon-Red_5: -466870358
-      Orc-Peon-Red_50: -1002885366
-      Orc-Peon-Red_51: 1289939053
-      Orc-Peon-Red_52: 1789740565
-      Orc-Peon-Red_53: 1391011984
-      Orc-Peon-Red_54: 1352790289
-      Orc-Peon-Red_55: -1308712582
-      Orc-Peon-Red_56: 1490619159
-      Orc-Peon-Red_57: 2040832722
-      Orc-Peon-Red_58: 63369494
-      Orc-Peon-Red_59: -1323568067
-      Orc-Peon-Red_6: -718999371
-      Orc-Peon-Red_60: 1470590542
-      Orc-Peon-Red_61: 449728707
-      Orc-Peon-Red_62: -1043169149
-      Orc-Peon-Red_63: 751597176
-      Orc-Peon-Red_64: 2059984848
-      Orc-Peon-Red_65: 839386187
-      Orc-Peon-Red_66: 453980140
-      Orc-Peon-Red_67: -220322056
-      Orc-Peon-Red_68: -1458326178
-      Orc-Peon-Red_69: -701123712
-      Orc-Peon-Red_7: -2066216393
-      Orc-Peon-Red_70: -385799486
-      Orc-Peon-Red_71: 1722737642
-      Orc-Peon-Red_72: -1734786094
-      Orc-Peon-Red_73: 613215173
-      Orc-Peon-Red_74: 328733452
-      Orc-Peon-Red_75: 989296488
-      Orc-Peon-Red_76: 175281172
-      Orc-Peon-Red_77: 1246274809
-      Orc-Peon-Red_78: -578457775
-      Orc-Peon-Red_79: 815892642
-      Orc-Peon-Red_8: 644965147
-      Orc-Peon-Red_80: -982514386
-      Orc-Peon-Red_81: 1088330811
-      Orc-Peon-Red_82: -1258271395
-      Orc-Peon-Red_83: 1534547023
-      Orc-Peon-Red_84: -1060511628
-      Orc-Peon-Red_85: -1378988089
-      Orc-Peon-Red_86: 452128016
-      Orc-Peon-Red_87: -279282206
-      Orc-Peon-Red_88: 1748015961
-      Orc-Peon-Red_89: 107330824
-      Orc-Peon-Red_9: -1565234941
-      Orc-Peon-Red_90: 1206978091
-      Orc-Peon-Red_91: 871453366
-      Orc-Peon-Red_92: -672682721
-      Orc-Peon-Red_93: -2122552109
-      Orc-Peon-Red_94: -393367979
-      Orc-Peon-Red_95: -1229054543
-      Orc-Peon-Red_96: 703221487
-      Orc-Peon-Red_97: 399742428
-      Orc-Peon-Red_98: 554152844
-      Orc-Peon-Red_99: 1774071377
+      Orc-Peon-Cyan_0: 1591511826
+      Orc-Peon-Cyan_1: 365850499
+      Orc-Peon-Cyan_10: -1228112084
+      Orc-Peon-Cyan_100: 170823344
+      Orc-Peon-Cyan_101: 368025433
+      Orc-Peon-Cyan_102: -1514828994
+      Orc-Peon-Cyan_103: -1546028152
+      Orc-Peon-Cyan_104: 688593871
+      Orc-Peon-Cyan_105: -798251595
+      Orc-Peon-Cyan_106: -2075567670
+      Orc-Peon-Cyan_107: -218556333
+      Orc-Peon-Cyan_108: 1946037830
+      Orc-Peon-Cyan_109: 702422067
+      Orc-Peon-Cyan_11: 1279141223
+      Orc-Peon-Cyan_110: -1752436052
+      Orc-Peon-Cyan_111: -1326933005
+      Orc-Peon-Cyan_112: 1730075012
+      Orc-Peon-Cyan_113: 1436725929
+      Orc-Peon-Cyan_114: 991481577
+      Orc-Peon-Cyan_115: 321701867
+      Orc-Peon-Cyan_116: 941234344
+      Orc-Peon-Cyan_117: -1170209342
+      Orc-Peon-Cyan_118: 1795433656
+      Orc-Peon-Cyan_119: 736048908
+      Orc-Peon-Cyan_12: -1741818945
+      Orc-Peon-Cyan_120: -1152019055
+      Orc-Peon-Cyan_121: 368714436
+      Orc-Peon-Cyan_122: 477223839
+      Orc-Peon-Cyan_123: 254518945
+      Orc-Peon-Cyan_124: 627839432
+      Orc-Peon-Cyan_125: -279233515
+      Orc-Peon-Cyan_126: 2024994435
+      Orc-Peon-Cyan_127: 458779034
+      Orc-Peon-Cyan_128: -799156951
+      Orc-Peon-Cyan_129: -617334795
+      Orc-Peon-Cyan_13: 1662026446
+      Orc-Peon-Cyan_130: 1839094784
+      Orc-Peon-Cyan_131: 1951961402
+      Orc-Peon-Cyan_132: -1507699257
+      Orc-Peon-Cyan_133: -1841013913
+      Orc-Peon-Cyan_134: -515493243
+      Orc-Peon-Cyan_135: -261680688
+      Orc-Peon-Cyan_136: -1156134319
+      Orc-Peon-Cyan_137: 16897477
+      Orc-Peon-Cyan_138: 1933699249
+      Orc-Peon-Cyan_139: -536372806
+      Orc-Peon-Cyan_14: -1905223474
+      Orc-Peon-Cyan_140: 2074011446
+      Orc-Peon-Cyan_141: -100446161
+      Orc-Peon-Cyan_142: 255606308
+      Orc-Peon-Cyan_143: -1105481617
+      Orc-Peon-Cyan_144: 460906787
+      Orc-Peon-Cyan_145: -1211654869
+      Orc-Peon-Cyan_146: 1165371148
+      Orc-Peon-Cyan_147: 1471096869
+      Orc-Peon-Cyan_148: -2055000700
+      Orc-Peon-Cyan_149: 1796344552
+      Orc-Peon-Cyan_15: 958323811
+      Orc-Peon-Cyan_150: -1125358850
+      Orc-Peon-Cyan_151: -1050619538
+      Orc-Peon-Cyan_152: 1185959837
+      Orc-Peon-Cyan_153: 1004797075
+      Orc-Peon-Cyan_154: 413428347
+      Orc-Peon-Cyan_155: -148409753
+      Orc-Peon-Cyan_156: 925914731
+      Orc-Peon-Cyan_157: 803111020
+      Orc-Peon-Cyan_158: 999179830
+      Orc-Peon-Cyan_159: -1469198780
+      Orc-Peon-Cyan_16: -2000246973
+      Orc-Peon-Cyan_160: 1762520337
+      Orc-Peon-Cyan_161: 2143568467
+      Orc-Peon-Cyan_162: -955863390
+      Orc-Peon-Cyan_163: -261382575
+      Orc-Peon-Cyan_164: -1073588850
+      Orc-Peon-Cyan_165: -1305316529
+      Orc-Peon-Cyan_166: 336430709
+      Orc-Peon-Cyan_167: -147307455
+      Orc-Peon-Cyan_168: -973334666
+      Orc-Peon-Cyan_169: 1962027683
+      Orc-Peon-Cyan_17: -1200672691
+      Orc-Peon-Cyan_170: 2144952920
+      Orc-Peon-Cyan_171: -1029986826
+      Orc-Peon-Cyan_172: -1846647773
+      Orc-Peon-Cyan_173: 510396838
+      Orc-Peon-Cyan_174: -108516091
+      Orc-Peon-Cyan_175: 822292331
+      Orc-Peon-Cyan_176: 75795929
+      Orc-Peon-Cyan_177: -465787338
+      Orc-Peon-Cyan_178: 2093269565
+      Orc-Peon-Cyan_179: -2038065203
+      Orc-Peon-Cyan_18: -941313344
+      Orc-Peon-Cyan_180: -204662525
+      Orc-Peon-Cyan_181: 646220751
+      Orc-Peon-Cyan_182: 1013005695
+      Orc-Peon-Cyan_183: 721660083
+      Orc-Peon-Cyan_184: -104155104
+      Orc-Peon-Cyan_185: -326273299
+      Orc-Peon-Cyan_186: 1712594843
+      Orc-Peon-Cyan_187: 174860968
+      Orc-Peon-Cyan_188: 1835905389
+      Orc-Peon-Cyan_189: 685286084
+      Orc-Peon-Cyan_19: -1821382502
+      Orc-Peon-Cyan_190: 559631481
+      Orc-Peon-Cyan_191: -842598856
+      Orc-Peon-Cyan_2: 1309020051
+      Orc-Peon-Cyan_20: 1528948695
+      Orc-Peon-Cyan_21: 748377102
+      Orc-Peon-Cyan_22: -1286578113
+      Orc-Peon-Cyan_23: 1477582799
+      Orc-Peon-Cyan_24: 1840603509
+      Orc-Peon-Cyan_25: -1925301582
+      Orc-Peon-Cyan_26: -332254820
+      Orc-Peon-Cyan_27: 1938375073
+      Orc-Peon-Cyan_28: 81165623
+      Orc-Peon-Cyan_29: 2139984669
+      Orc-Peon-Cyan_3: -806226349
+      Orc-Peon-Cyan_30: 1117858688
+      Orc-Peon-Cyan_31: -867966982
+      Orc-Peon-Cyan_32: -1468165633
+      Orc-Peon-Cyan_33: 509213279
+      Orc-Peon-Cyan_34: 650570105
+      Orc-Peon-Cyan_35: -1650767055
+      Orc-Peon-Cyan_36: 438137420
+      Orc-Peon-Cyan_37: -1676748882
+      Orc-Peon-Cyan_38: -501349016
+      Orc-Peon-Cyan_39: -2091876749
+      Orc-Peon-Cyan_4: -181307378
+      Orc-Peon-Cyan_40: 87727196
+      Orc-Peon-Cyan_41: 430160459
+      Orc-Peon-Cyan_42: -2083815255
+      Orc-Peon-Cyan_43: 1732672352
+      Orc-Peon-Cyan_44: -528686482
+      Orc-Peon-Cyan_45: -360315160
+      Orc-Peon-Cyan_46: -1534055742
+      Orc-Peon-Cyan_47: 327679900
+      Orc-Peon-Cyan_48: -1269457334
+      Orc-Peon-Cyan_49: 676272021
+      Orc-Peon-Cyan_5: -239966718
+      Orc-Peon-Cyan_50: -552756107
+      Orc-Peon-Cyan_51: -1898930145
+      Orc-Peon-Cyan_52: -719684637
+      Orc-Peon-Cyan_53: -1715469143
+      Orc-Peon-Cyan_54: -1101097398
+      Orc-Peon-Cyan_55: 1317369254
+      Orc-Peon-Cyan_56: 1196502605
+      Orc-Peon-Cyan_57: 286573807
+      Orc-Peon-Cyan_58: -1742950799
+      Orc-Peon-Cyan_59: 973568803
+      Orc-Peon-Cyan_6: 1388927506
+      Orc-Peon-Cyan_60: -1464754833
+      Orc-Peon-Cyan_61: -2132485837
+      Orc-Peon-Cyan_62: 1517068227
+      Orc-Peon-Cyan_63: 655941814
+      Orc-Peon-Cyan_64: 373071280
+      Orc-Peon-Cyan_65: -739955938
+      Orc-Peon-Cyan_66: 1123996565
+      Orc-Peon-Cyan_67: 2073348434
+      Orc-Peon-Cyan_68: 2081130247
+      Orc-Peon-Cyan_69: -409464511
+      Orc-Peon-Cyan_7: 544574323
+      Orc-Peon-Cyan_70: -1706029576
+      Orc-Peon-Cyan_71: -606048058
+      Orc-Peon-Cyan_72: -1473009062
+      Orc-Peon-Cyan_73: -1336991843
+      Orc-Peon-Cyan_74: 513676854
+      Orc-Peon-Cyan_75: 992545754
+      Orc-Peon-Cyan_76: -388616770
+      Orc-Peon-Cyan_77: 1012839944
+      Orc-Peon-Cyan_78: -1651332256
+      Orc-Peon-Cyan_79: -1177797418
+      Orc-Peon-Cyan_8: -663444653
+      Orc-Peon-Cyan_80: 2113563052
+      Orc-Peon-Cyan_81: 867569132
+      Orc-Peon-Cyan_82: -1983304930
+      Orc-Peon-Cyan_83: 1659890648
+      Orc-Peon-Cyan_84: -1709086485
+      Orc-Peon-Cyan_85: -1966435894
+      Orc-Peon-Cyan_86: -1987235646
+      Orc-Peon-Cyan_87: -2057961776
+      Orc-Peon-Cyan_88: 835428629
+      Orc-Peon-Cyan_89: 418979128
+      Orc-Peon-Cyan_9: 2098203684
+      Orc-Peon-Cyan_90: 2078735053
+      Orc-Peon-Cyan_91: -1319540968
+      Orc-Peon-Cyan_92: 115339246
+      Orc-Peon-Cyan_93: -839275345
+      Orc-Peon-Cyan_94: 2069103719
+      Orc-Peon-Cyan_95: -903733426
+      Orc-Peon-Cyan_96: 1565372260
+      Orc-Peon-Cyan_97: -1521072730
+      Orc-Peon-Cyan_98: -1865031755
+      Orc-Peon-Cyan_99: 529468075
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
