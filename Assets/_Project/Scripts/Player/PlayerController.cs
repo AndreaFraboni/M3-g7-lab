@@ -38,13 +38,13 @@ public class PlayerController : MonoBehaviour
 
         Vector2 input = new Vector2(h, v);
 
-        if (h != 0 || v != 0)      
-        { 
-        _animParam.SetVerticalSpeedParam(v);
-        _animParam.SetHorizontalSpeedParam(h);
+        if (h != 0 || v != 0)
+        {
+            _animParam.SetVerticalSpeedParam(v);
+            _animParam.SetHorizontalSpeedParam(h);
         }
 
-        //_mover.SetSpeed(_speed);
+        _mover.SetSpeed(_speed);
         _mover.SetAndNormalizeInput(input);
 
         //if (_shooter != null)

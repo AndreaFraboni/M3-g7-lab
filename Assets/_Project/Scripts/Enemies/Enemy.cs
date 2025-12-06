@@ -8,10 +8,12 @@ public class Enemy : MonoBehaviour
     [SerializeField] private float _speed = 2.0f;
 
     private Mover2D _mover;
+    private AnimationParamHandler _animParam;
 
     private void Awake()
     {
         _mover = GetComponent<Mover2D>();
+        _animParam = GetComponent<AnimationParamHandler>();
 
         if (_target == null)
         {
@@ -33,6 +35,12 @@ public class Enemy : MonoBehaviour
         if (_target == null) return;
         Vector2 toTarget = _target.position - transform.position;
         Vector2 input = toTarget.normalized;
+
+        if (input.x != 0 || input.y != 0)
+        {
+            _animParam.SetDirectionalSpeedParams(input);
+        }
+
         _mover.SetSpeed(_speed);
         _mover.SetAndNormalizeInput(input);
     }
