@@ -11,13 +11,17 @@ public class PlayerController : MonoBehaviour
     private Mover2D _mover;
     private Shooter _shooter;
     private Camera _cam;
+    private AnimationParamHandler _animParam;
 
     private AudioSource _AudioSource;
+
+    private float v, h;
 
     private void Awake()
     {
         _mover = GetComponent<Mover2D>();
         _shooter = GetComponent<Shooter>();
+        _animParam = GetComponent<AnimationParamHandler>();
         _cam = Camera.main;
 
         _AudioSource = GetComponent<AudioSource>();
@@ -29,29 +33,35 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        float h = Input.GetAxisRaw("Horizontal");
-        float v = Input.GetAxisRaw("Vertical");
+        h = Input.GetAxis("Horizontal");
+        v = Input.GetAxis("Vertical");
 
         Vector2 input = new Vector2(h, v);
 
-        _mover.SetSpeed(_speed);
+        if (h != 0 || v != 0)      
+        { 
+        _animParam.SetVerticalSpeedParam(v);
+        _animParam.SetHorizontalSpeedParam(h);
+        }
+
+        //_mover.SetSpeed(_speed);
         _mover.SetAndNormalizeInput(input);
 
-        if (_shooter != null)
-        {
+        //if (_shooter != null)
+        //{
 
-            if (Input.GetMouseButtonDown(0))
-            {
-                Vector3 mouseScreenPosition = Input.mousePosition;
-                mouseScreenPosition.z = -_cam.transform.position.z; // distanza tra camera e piano XY
-                Vector3 mouseWorldPosition = _cam.ScreenToWorldPoint(mouseScreenPosition);
-                Vector3 shootDirection = mouseWorldPosition - transform.position;
-                
-                if (shootDirection != Vector3.zero) shootDirection.Normalize();
+        //    if (Input.GetMouseButtonDown(0))
+        //    {
+        //        Vector3 mouseScreenPosition = Input.mousePosition;
+        //        mouseScreenPosition.z = -_cam.transform.position.z; // distanza tra camera e piano XY
+        //        Vector3 mouseWorldPosition = _cam.ScreenToWorldPoint(mouseScreenPosition);
+        //        Vector3 shootDirection = mouseWorldPosition - transform.position;
 
-                _shooter.TryToShoot(shootDirection);
-            }
-        }
+        //        if (shootDirection != Vector3.zero) shootDirection.Normalize();
+
+        //        _shooter.TryToShoot(shootDirection);
+        //    }
+        //}
 
     }
 
