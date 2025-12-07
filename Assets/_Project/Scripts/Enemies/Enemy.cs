@@ -32,7 +32,11 @@ public class Enemy : MonoBehaviour
 
     void EnemyMovement()
     {
-        if (_target == null) return;
+        if (_target == null)
+        {
+            _mover.SetSpeed(0);
+            return;
+        }
         Vector2 toTarget = _target.position - transform.position;
         Vector2 input = toTarget.normalized;
 
