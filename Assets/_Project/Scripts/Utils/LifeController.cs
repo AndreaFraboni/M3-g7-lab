@@ -7,6 +7,7 @@ public class LifeController : MonoBehaviour
     [SerializeField] private int _currenthp = 100;
     [SerializeField] private int _maxHP = 100;
     [SerializeField] private int _lives = 3;
+
     [SerializeField] private AudioClip DeathSound;
     [SerializeField] private AudioClip ImpactSound1;
     [SerializeField] private AudioClip ImpactSound2;
@@ -56,6 +57,7 @@ public class LifeController : MonoBehaviour
 
     // Functions
     public void AddHp(int amount) => SetHp(_currenthp + amount);
+
     public void TakeDamage(int damage)
     {
         if (ImpactSound1 != null && ImpactSound2 != null && ImpactSound3 != null && _AudioSource != null)

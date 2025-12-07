@@ -22,6 +22,7 @@ public class PlayerController : MonoBehaviour
         _mover = GetComponent<Mover2D>();
         _shooter = GetComponent<Shooter>();
         _animParam = GetComponent<AnimationParamHandler>();
+
         _cam = Camera.main;
 
         _AudioSource = GetComponent<AudioSource>();

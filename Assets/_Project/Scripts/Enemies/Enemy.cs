@@ -8,7 +8,10 @@ public class Enemy : MonoBehaviour
     [SerializeField] private float _speed = 2.0f;
 
     private Mover2D _mover;
+
     private AnimationParamHandler _animParam;
+
+    private EnemiesManager _enemiesManager;
 
     private void Awake()
     {
@@ -24,7 +27,30 @@ public class Enemy : MonoBehaviour
             }
         }
 
+        _enemiesManager = FindObjectOfType<EnemiesManager>();
     }
+
+    private void OnEnable()
+    {
+        if (_enemiesManager != null)
+        {
+            Debug.Log("HO TROVARTO EnemiesManager E MI REGISTRO !");
+            _enemiesManager.RegistEnemy(this);
+        }
+        else
+        {
+            Debug.LogError("EnemiesManager non trovato in scena!");
+        }
+    }
+
+    private void OnDisable()
+    {
+        if (_enemiesManager != null)
+        {
+            _enemiesManager.RemoveEnemy(this);
+        }
+    }
+
     private void FixedUpdate()
     {
         EnemyMovement();

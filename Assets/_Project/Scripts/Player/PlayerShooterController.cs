@@ -8,10 +8,9 @@ public class PlayerShooterController : MonoBehaviour
     [SerializeField] float fireRange = 6.0f;
     [SerializeField] private AudioClip FireSound;
 
+    private EnemiesManager _enemiesRegister;
     private AudioSource _AudioSource;
-
     public GameObject BulletPrefab;
-
     private float _lastShootTime;
 
     private void Awake()
@@ -20,6 +19,16 @@ public class PlayerShooterController : MonoBehaviour
         if (_AudioSource == null)
         {
             _AudioSource = gameObject.AddComponent<AudioSource>();
+        }
+
+        if (_enemiesRegister == null)
+        {
+            _enemiesRegister = FindObjectOfType<EnemiesManager>();
+
+            if (_enemiesRegister == null)
+            {
+                Debug.LogError("EnemiesManager NON trovato in scena da PlayerShooterController!");
+            }
         }
     }
 
@@ -34,18 +43,18 @@ public class PlayerShooterController : MonoBehaviour
 
     private GameObject FindNearestEnemy()
     {
-        GameObject NearstEnemyFounded = null;
-        GameObject[] enemiesList = GameObject.FindGameObjectsWithTag(Tags.Enemy);
+        GameObject NearstEnemyFounded = null;       
+        //GameObject[] enemiesList = GameObject.FindGameObjectsWithTag(Tags.Enemy);     
 
         float nearstDistance = fireRange;
 
-        foreach (GameObject enemy in enemiesList)
+        foreach (Enemy currentEnemy in _enemiesRegister.listEnemies)
         {
-            float CurDistance = Vector2.Distance(transform.position, enemy.transform.position);
+            float CurDistance = Vector2.Distance(transform.position, currentEnemy.transform.position);
             if (CurDistance < nearstDistance)
             {
                 nearstDistance = CurDistance;
-                NearstEnemyFounded = enemy;
+                NearstEnemyFounded = currentEnemy.gameObject;
             }
         }
         return NearstEnemyFounded;
