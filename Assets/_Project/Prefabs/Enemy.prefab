@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2251975814434665518}
   - component: {fileID: 5756114620271521618}
   - component: {fileID: 7056296219311988561}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Orc
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -121,7 +121,7 @@ GameObject:
   - component: {fileID: 201790468597753545}
   - component: {fileID: 7513103221573974210}
   - component: {fileID: 1139855737371826588}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Enemy
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -203,9 +203,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.01662004}
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 0.51662004
 --- !u!114 &7977331403426220377
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -274,7 +274,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 917759703120121956}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Graphic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
