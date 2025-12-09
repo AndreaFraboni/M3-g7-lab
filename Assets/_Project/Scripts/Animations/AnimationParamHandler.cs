@@ -31,4 +31,9 @@ public class AnimationParamHandler : MonoBehaviour
         _anim.SetFloat(_horizontalSpeedParamName, speed);
     }
 
+    public void SetBoolParam(string stateParam, bool value)
+    {
+        _anim.SetBool(stateParam, value);
+    }
+
 }
