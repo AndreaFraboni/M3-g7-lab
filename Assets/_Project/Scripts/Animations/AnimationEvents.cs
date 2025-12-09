@@ -8,7 +8,7 @@ public class AnimationEvents : MonoBehaviour
 
     private void Awake()
     {
-       //_pcontroller = GetComponent<PlayerController>();
+        _pcontroller = GetComponentInParent<PlayerController>();
     }
 
     public void DestroygameObject(string _state)

@@ -13,6 +13,9 @@ public class Enemy : MonoBehaviour
 
     private EnemiesManager _enemiesManager;
 
+    private bool isWalking = false;
+    private bool isAlive = true;
+
     private void Awake()
     {
         _mover = GetComponent<Mover2D>();
@@ -61,12 +64,18 @@ public class Enemy : MonoBehaviour
         if (_target == null)
         {
             _mover.SetSpeed(0);
+            isWalking = false;
+            _animParam.SetBoolParam("isWalking", isWalking);
             return;
         }
         Vector2 toTarget = _target.position - transform.position;
         Vector2 input = toTarget.normalized;
 
-        if (input.x != 0 || input.y != 0)
+        isWalking = input != Vector2.zero;
+
+        _animParam.SetBoolParam("isWalking", isWalking);
+
+        if (isWalking)
         {
             _animParam.SetDirectionalSpeedParams(input);
         }

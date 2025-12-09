@@ -149,7 +149,7 @@ BlendTree:
     m_Mirror: 0
   m_BlendParameter: hSpeed
   m_BlendParameterY: vSpeed
-  m_MinThreshold: -0.01
+  m_MinThreshold: 0.001
   m_MaxThreshold: 0.01
   m_UseAutomaticThresholds: 0
   m_NormalizedBlendValues: 0
@@ -250,7 +250,7 @@ BlendTree:
   m_BlendParameter: hSpeed
   m_BlendParameterY: vSpeed
   m_MinThreshold: -0.01
-  m_MaxThreshold: 0.01
+  m_MaxThreshold: -0.001
   m_UseAutomaticThresholds: 0
   m_NormalizedBlendValues: 0
   m_BlendType: 2
