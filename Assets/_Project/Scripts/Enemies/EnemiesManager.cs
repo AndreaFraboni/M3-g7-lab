@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class EnemiesManager : MonoBehaviour
 {   
-    public List<Enemy> listEnemies = new List<Enemy>();
+    public List<EnemyController> listEnemies = new List<EnemyController>();
 
-    public void RegistEnemy(Enemy enemy)
+    public void RegistEnemy(EnemyController enemy)
     {
         if (enemy == null) return;
 
@@ -20,7 +20,7 @@ public class EnemiesManager : MonoBehaviour
         }
     }
 
-    public void RemoveEnemy(Enemy enemy)
+    public void RemoveEnemy(EnemyController enemy)
     {
         if (enemy == null) return;
        

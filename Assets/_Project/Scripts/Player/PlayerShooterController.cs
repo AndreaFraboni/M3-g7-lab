@@ -48,7 +48,7 @@ public class PlayerShooterController : MonoBehaviour
 
         float nearstDistance = fireRange;
 
-        foreach (Enemy currentEnemy in _enemiesRegister.listEnemies)
+        foreach (EnemyController currentEnemy in _enemiesRegister.listEnemies)
         {
             float CurDistance = Vector2.Distance(transform.position, currentEnemy.transform.position);
             if (CurDistance < nearstDistance)

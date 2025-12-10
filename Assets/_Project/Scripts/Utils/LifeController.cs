@@ -91,7 +91,13 @@ public class LifeController : MonoBehaviour
         {
             AudioSource.PlayClipAtPoint(DeathSound, transform.position);
         }
-        Destroy(gameObject);
+
+        if (CompareTag("Enemy"))
+        {
+            gameObject.GetComponent<EnemyController>().DestroyEnemy();
+        }
+
+        //Destroy(gameObject);
     }
 
 }

@@ -2,14 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class EnemyController : MonoBehaviour
 {
     [SerializeField] private Transform _target;
     [SerializeField] private float _speed = 2.0f;
 
     private Mover2D _mover;
-
     private AnimationParamHandler _animParam;
+    private CircleCollider2D _Collider2D;
+    private Rigidbody2D _rb;
 
     private EnemiesManager _enemiesManager;
 
@@ -21,6 +22,9 @@ public class Enemy : MonoBehaviour
         _mover = GetComponent<Mover2D>();
         _animParam = GetComponent<AnimationParamHandler>();
 
+        _Collider2D = GetComponent<CircleCollider2D>();
+        _rb = GetComponent<Rigidbody2D>();
+
         if (_target == null)
         {
             GameObject go = GameObject.FindGameObjectWithTag(Tags.Player);
@@ -31,6 +35,7 @@ public class Enemy : MonoBehaviour
         }
 
         _enemiesManager = FindObjectOfType<EnemiesManager>();
+
     }
 
     private void OnEnable()
@@ -61,30 +66,46 @@ public class Enemy : MonoBehaviour
 
     void EnemyMovement()
     {
-        if (_target == null)
+        if (isAlive)
         {
-            _mover.SetSpeed(0);
-            isWalking = false;
+            if (_target == null)
+            {
+                _mover.SetSpeed(0);
+                isWalking = false;
+                _animParam.SetBoolParam("isWalking", isWalking);
+                return;
+            }
+
+            Vector2 toTarget = _target.position - transform.position;
+            Vector2 input = toTarget.normalized;
+
+            isWalking = input != Vector2.zero;
+
             _animParam.SetBoolParam("isWalking", isWalking);
-            return;
+
+            if (isWalking)
+            {
+                _animParam.SetDirectionalSpeedParams(input);
+            }
+
+            _mover.SetSpeed(_speed);
+            _mover.SetAndNormalizeInput(input);
         }
-        Vector2 toTarget = _target.position - transform.position;
-        Vector2 input = toTarget.normalized;
-
-        isWalking = input != Vector2.zero;
-
-        _animParam.SetBoolParam("isWalking", isWalking);
-
-        if (isWalking)
-        {
-            _animParam.SetDirectionalSpeedParams(input);
-        }
-
-        _mover.SetSpeed(_speed);
-        _mover.SetAndNormalizeInput(input);
     }
 
-    public void DestroyMe()
+    public void DestroyEnemy()
+    {
+        isAlive = false;
+
+        if (_Collider2D != null) _Collider2D.enabled = false;
+        if (_rb != null) _rb.simulated = false;
+
+        _animParam.SetBoolParam("isDying", true);
+
+        //Destroy(gameObject);
+    }
+
+    public void DestroyGOEnemy()
     {
         Destroy(gameObject);
     }
