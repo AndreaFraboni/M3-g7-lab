@@ -380,7 +380,7 @@ TilemapRenderer:
   m_ReflectionProbeUsage: 0
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
+  m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
@@ -401,9 +401,9 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: -10
+  m_SortingLayerID: -83026911
+  m_SortingLayer: 1
+  m_SortingOrder: -1
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
   m_MaxChunkCount: 16
@@ -8852,24 +8852,6 @@ Transform:
   - {fileID: 736926047}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &942754803 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4306921665169221446, guid: b098d8771934e3c4a801af2232ca82bd, type: 3}
-  m_PrefabInstance: {fileID: 1004317768}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &942754807
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 942754803}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bb15768059d268643b02712850414188, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _econtroller: {fileID: 0}
 --- !u!1001 &1004317768
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8878,10 +8860,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5756114620271521618, guid: b098d8771934e3c4a801af2232ca82bd, type: 3}
-      propertyPath: m_SortingOrder
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6251413319517538445, guid: b098d8771934e3c4a801af2232ca82bd, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6.185567
@@ -8926,17 +8904,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy
       objectReference: {fileID: 0}
-    - target: {fileID: 7977331403426220377, guid: b098d8771934e3c4a801af2232ca82bd, type: 3}
-      propertyPath: DeathSound
-      value: 
-      objectReference: {fileID: 8300000, guid: ae7455b089ae60c429ef842a4135e88a, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 4306921665169221446, guid: b098d8771934e3c4a801af2232ca82bd, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 942754807}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b098d8771934e3c4a801af2232ca82bd, type: 3}
 --- !u!1 &1053310755
 GameObject:
@@ -8951,7 +8922,7 @@ GameObject:
   - component: {fileID: 1053310758}
   - component: {fileID: 1053310759}
   m_Layer: 3
-  m_Name: Mage
+  m_Name: Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8995,8 +8966,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 508661957
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: -1787760949, guid: c0ba6debb5eb3d94dab7e9f600b07f82, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

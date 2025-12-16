@@ -63,16 +63,13 @@ public class PlayerController : MonoBehaviour
 
             //if (_shooter != null)
             //{
-
             //    if (Input.GetMouseButtonDown(0))
             //    {
             //        Vector3 mouseScreenPosition = Input.mousePosition;
             //        mouseScreenPosition.z = -_cam.transform.position.z; // distanza tra camera e piano XY
             //        Vector3 mouseWorldPosition = _cam.ScreenToWorldPoint(mouseScreenPosition);
             //        Vector3 shootDirection = mouseWorldPosition - transform.position;
-
-            //        if (shootDirection != Vector3.zero) shootDirection.Normalize();
-
+            //        if (shootDirection != Vector3.zero) shootDirection.Normalize()
             //        _shooter.TryToShoot(shootDirection);
             //    }
             //}
